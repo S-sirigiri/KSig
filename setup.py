@@ -20,7 +20,7 @@ setup(
     url='https://github.com/tgcsaba/KSig',
     packages=find_packages(),
     install_requires=['numpy==1.24.4', 'scikit-learn>=1.3.2', 'cupy>=12.2.0', 'tqdm==4.66.1'],
-    python_requires='>=3.9',
+    python_requires='>=3.8',
     classifiers=[
         'Audience :: Developers',
         'Intended Audience :: Financial and Insurance Industry',
